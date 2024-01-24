@@ -19,7 +19,7 @@ This dashboard offers a comprehensive view of vehicle sales data, including:
   ![Map Page Sales.](https://github.com/harisyf/vehicle-sales-dashboard/blob/main/images/vehicle_sales_report_Page_4.png)
 
 # Features
-* Interactive visualizations: Utilize various charts and graphs like bar charts, pie charts, maps, and funnels for efficient data exploration.
+* Interactive visualizations: Utilize various charts and graphs like bar charts, donut charts, maps, and funnels for efficient data exploration.
 * Filters: Narrow down the focus of your analysis by applying filters based on specific criteria like date range and product line.
 
 # Data Sources
